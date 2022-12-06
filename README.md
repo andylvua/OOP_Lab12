@@ -1,4 +1,5 @@
 # Lab 12. Chain of Responsibility & Decorator
+[![Java CI with Maven](https://github.com/andylvua/OOP_Lab12/actions/workflows/maven.yml/badge.svg)](https://github.com/andylvua/OOP_Lab12/actions/workflows/maven.yml)
 
 ## Description
 A simple example of the Chain of Responsibility and Decorator patterns.
